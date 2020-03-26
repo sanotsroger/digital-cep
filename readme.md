@@ -1,3 +1,3 @@
 # DIGITAL CEP
 
-Bibliote para consulta de CEP.
+Biblioteca para consulta de CEP.

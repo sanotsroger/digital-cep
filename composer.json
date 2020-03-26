@@ -1,0 +1,19 @@
+{
+    "name": "sanotsroger/digital-cep",
+    "description": "Biblioteca para busca de CEP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roger Santos",
+            "email": "rogerioantoniodossantos@outlook.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "sanotsroger\\DigitalCep\\": "src/"
+        }
+    }
+}
